@@ -3,6 +3,7 @@ module github.com/nicolasdeveloper/easymile-tracker/provider
 go 1.13
 
 require (
+	github.com/NicolasDeveloper/easymile-tracker/providers/broaker v0.0.0-20191009023504-8b3133c4c711 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
