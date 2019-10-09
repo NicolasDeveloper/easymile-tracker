@@ -1,4 +1,4 @@
-package broaker
+package message
 
 import (
 	"fmt"
