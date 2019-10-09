@@ -11,9 +11,13 @@ import (
 	"regexp"
 	"strconv"
 	"syscall"
+
+	"github.com/nicolasdeveloper/easymile-tracker/broaker"
+	"github.com/nicolasdeveloper/easymile-tracker/models"
 )
 
 func handleUDPConnection(conn *net.UDPConn, massage *broaker.AmqpClient) {
+
 	buffer := make([]byte, 1024)
 
 	n, addr, err := conn.ReadFromUDP(buffer)

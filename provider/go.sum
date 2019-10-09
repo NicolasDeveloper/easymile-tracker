@@ -1,10 +1,9 @@
-github.com/NicolasDeveloper/easymile-tracker v0.0.0-20191009023504-8b3133c4c711 h1:ngzy1HdQUbjguLguM91qRL4pZFN3iqE76WlIUthk0Gw=
-github.com/NicolasDeveloper/easymile-tracker/providers/broaker v0.0.0-20191009023504-8b3133c4c711 h1:8QUOjcyhJ7lR3JvQGfXZUtMmM1xOnb0v10mhuvHzuzc=
-github.com/NicolasDeveloper/easymile-tracker/providers/broaker v0.0.0-20191009023504-8b3133c4c711/go.mod h1:1hmcR1XY7HV1rJ2Oj8hV0EHL42AXkaB0gz0fBY3T9vE=
 github.com/go-stack/stack v1.8.0 h1:5SgMzNM5HxrEjV0ww2lTmX6E2Izsfxas4+YHWRs3Lsk=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/golang/snappy v0.0.1 h1:Qgr9rKW7uDUkrbSmQeiDsGa8SjGyCOGtuasMWwvp2P4=
 github.com/golang/snappy v0.0.1/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
+github.com/nicolasdeveloper/easymile-tracker v0.0.0-20191009023723-35ae3af4b22f h1:2en96js8+MJ7Ibsnbv4jleCTlew7uAJUIDyfffnnHTg=
+github.com/nicolasdeveloper/easymile-tracker v0.0.0-20191009023723-35ae3af4b22f/go.mod h1:mNpuFXPmtKxdvDqU4ob8AeyyxUxOHSRGqJmsmoX18UQ=
 github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271 h1:WhxRHzgeVGETMlmVfqhRn8RIeeNoPr2Czh33I4Zdccw=
 github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c h1:u40Z8hqBAAQyv+vATcGgV0YCnDjqSL7/q/JyPhhJSPk=
