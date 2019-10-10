@@ -1,6 +1,8 @@
 package main
 
 import (
+	"easymile-tracker/common/broaker"
+	"easymile-tracker/common/models"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -11,9 +13,6 @@ import (
 	"regexp"
 	"strconv"
 	"syscall"
-
-	"github.com/nicolasdeveloper/easymile-tracker/common/broaker"
-	"github.com/nicolasdeveloper/easymile-tracker/common/models"
 )
 
 func handleUDPConnection(conn *net.UDPConn, massage *broaker.AmqpClient) {
