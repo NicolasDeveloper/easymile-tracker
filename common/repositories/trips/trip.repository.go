@@ -2,16 +2,15 @@ package repository
 
 import (
 	"context"
+	"easymile-tracker/common/database"
+	"easymile-tracker/common/models"
 	"fmt"
 	"log"
-
-	"github.com/nicolasdeveloper/udp-server/models"
-	"github.com/nicolasdeveloper/udp-server/providers"
 )
 
 // Save the trip
 func Save(trip models.Trip) error {
-	client := providers.Connection()
+	client := database.Connection()
 	collection := client.Database("easymile").Collection("trip")
 	insertResult, err := collection.InsertOne(context.TODO(), trip)
 
