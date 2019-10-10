@@ -1,4 +1,4 @@
-module github.com/nicolasdeveloper/easymile-tracker/broakers
+module github.com/nicolasdeveloper/easymile-tracker/common
 
 go 1.13
 
