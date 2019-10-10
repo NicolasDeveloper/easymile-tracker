@@ -1,4 +1,4 @@
-module github.com/nicolasdeveloper/easymile-tracker/provider
+module github.com/nicolasDeveloper/easymile-tracker/provider
 
 go 1.13
 
