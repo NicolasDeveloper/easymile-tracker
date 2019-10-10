@@ -12,7 +12,6 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/nicolasdeveloper/easymile-tracker/broaker"
 	"github.com/nicolasdeveloper/easymile-tracker/models"
 )
 
